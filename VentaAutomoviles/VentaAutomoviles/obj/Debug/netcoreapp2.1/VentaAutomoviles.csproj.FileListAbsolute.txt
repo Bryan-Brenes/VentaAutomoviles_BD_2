@@ -30,3 +30,7 @@ C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto 
 C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\VentaAutomoviles.dll
 C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\VentaAutomoviles.pdb
 C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\VentaAutomoviles.csproj.CopyComplete
+C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAdministrador.g.cshtml.cs
+C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\agregarEditarCarro.g.cshtml.cs
+C:\Users\bc_40\Documents\Ingeniería en computación\Bases de datos II\Proyecto Final\VentaAutomoviles_BD_2\VentaAutomoviles\VentaAutomoviles\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\procesarSolicitudes.g.cshtml.cs
